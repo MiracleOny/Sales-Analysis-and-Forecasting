@@ -14,6 +14,7 @@ You can either create a sample sales dataset or use publicly available datasets.
 - Customer information (optional)
 
 ## Tasks
+https://www.fdmgroup.com/news-insights/advanced-excel-skills/#:~:text=Advanced%20Excel%20skills%20for%20data,easier%20to%20extract%20valuable%20insights.
 
 1. Data Entry and Cleaning:
 - Input the sales data into an Excel worksheet.
